@@ -1,17 +1,20 @@
 {
-  "name": "proj-node-server",
-  "version": "1.0.0",
-  "scripts": {
-    "baba": "dir",
-    "start": "nodemon --ignore \"./data\" server.js"
-  },
-  "author": "Me",
-  "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+    "name": "proj-node-server",
+    "version": "1.0.0",
+    "scripts": {
+        "baba": "dir",
+        "start": "nodemon --ignore \"./data\" server.js"
+    },
+    "author": "Me",
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "cryptr": "^6.0.3",
+        "express": "^4.17.1",
+        "mongodb": "^3.7.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
 }

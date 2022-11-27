@@ -1,0 +1,417 @@
+11/24/2022, 12:13:45 PM - DEBUG - Getting Cars
+11/24/2022, 12:14:15 PM - DEBUG - Getting Cars
+11/24/2022, 12:20:44 PM - DEBUG - Getting Cars
+11/24/2022, 12:20:58 PM - DEBUG - Getting Cars
+11/24/2022, 12:21:50 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:28:12 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:28:12 PM - INFO - Req was made
+11/24/2022, 12:28:12 PM - DEBUG - Getting Cars
+11/24/2022, 12:31:39 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:32:02 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:32:25 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:35:18 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:37:41 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:38:01 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:38:08 PM - INFO - Server is running on port: 3030
+11/24/2022, 12:38:41 PM - INFO - Server is running on port: 3030
+11/24/2022, 4:55:03 PM - INFO - Server is running on port: 3030
+11/24/2022, 4:58:15 PM - INFO - Server is running on port: 3030
+11/24/2022, 4:58:45 PM - INFO - Server is running on port: 3030
+11/24/2022, 4:58:54 PM - INFO - Server is running on port: 3030
+11/24/2022, 4:59:41 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:09:56 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:10:34 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:10:35 PM - INFO - Req was made
+11/24/2022, 5:10:35 PM - DEBUG - Getting Toys
+11/24/2022, 5:10:35 PM - ERROR - Failed to get toys | {}
+11/24/2022, 5:11:42 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:11:49 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:12:08 PM - INFO - Req was made
+11/24/2022, 5:12:08 PM - DEBUG - Getting Toys
+11/24/2022, 5:12:08 PM - ERROR - Failed to get toys | {}
+11/24/2022, 5:13:44 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:13:47 PM - INFO - Req was made
+11/24/2022, 5:13:47 PM - DEBUG - Getting Toys
+11/24/2022, 5:16:05 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:52:36 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:53:32 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:53:45 PM - INFO - Server is running on port: 3030
+11/24/2022, 5:53:45 PM - INFO - Req was made
+11/24/2022, 5:53:45 PM - DEBUG - Getting Toys
+11/24/2022, 5:54:34 PM - INFO - Req was made
+11/24/2022, 5:54:34 PM - DEBUG - Getting Toys
+11/24/2022, 5:54:47 PM - INFO - Req was made
+11/24/2022, 5:54:47 PM - DEBUG - Getting Toys
+11/24/2022, 5:54:57 PM - INFO - Req was made
+11/24/2022, 5:54:57 PM - DEBUG - Getting Toys
+11/24/2022, 5:56:02 PM - INFO - Req was made
+11/24/2022, 5:56:02 PM - DEBUG - Getting Toys
+11/24/2022, 5:56:25 PM - INFO - Req was made
+11/24/2022, 5:56:25 PM - DEBUG - Getting Toys
+11/24/2022, 6:06:39 PM - INFO - Server is running on port: 3030
+11/24/2022, 6:06:47 PM - INFO - Req was made
+11/24/2022, 6:06:47 PM - DEBUG - Getting Toys
+11/24/2022, 6:22:50 PM - INFO - Req was made
+11/24/2022, 6:22:50 PM - DEBUG - Getting Toys
+11/24/2022, 6:22:53 PM - INFO - Req was made
+11/24/2022, 6:22:53 PM - DEBUG - Getting Toys
+11/24/2022, 6:25:47 PM - INFO - Req was made
+11/24/2022, 6:25:47 PM - DEBUG - Getting Toys
+11/24/2022, 6:26:21 PM - INFO - Req was made
+11/24/2022, 6:26:21 PM - DEBUG - Getting Toys
+11/24/2022, 6:26:42 PM - INFO - Req was made
+11/24/2022, 6:26:42 PM - DEBUG - Getting Toys
+11/24/2022, 6:33:30 PM - INFO - Req was made
+11/24/2022, 6:33:30 PM - DEBUG - Getting Toys
+11/24/2022, 6:39:05 PM - INFO - Req was made
+11/24/2022, 6:39:05 PM - DEBUG - Getting Toys
+11/24/2022, 6:39:40 PM - INFO - Req was made
+11/24/2022, 6:39:40 PM - DEBUG - Getting Toys
+11/24/2022, 6:39:44 PM - INFO - Req was made
+11/24/2022, 6:39:44 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:12 PM - INFO - Req was made
+11/24/2022, 6:40:12 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:51 PM - INFO - Req was made
+11/24/2022, 6:40:51 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:52 PM - INFO - Req was made
+11/24/2022, 6:40:52 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:53 PM - INFO - Req was made
+11/24/2022, 6:40:53 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:54 PM - INFO - Req was made
+11/24/2022, 6:40:54 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:55 PM - INFO - Req was made
+11/24/2022, 6:40:55 PM - DEBUG - Getting Toys
+11/24/2022, 6:40:55 PM - INFO - Req was made
+11/24/2022, 6:40:55 PM - DEBUG - Getting Toys
+11/24/2022, 6:43:00 PM - INFO - Server is running on port: 3030
+11/24/2022, 6:43:26 PM - INFO - Req was made
+11/24/2022, 6:43:26 PM - DEBUG - Getting Toys
+11/24/2022, 6:43:32 PM - INFO - Req was made
+11/24/2022, 6:43:32 PM - DEBUG - Getting Toys
+11/24/2022, 6:45:11 PM - INFO - Server is running on port: 3030
+11/24/2022, 6:45:37 PM - INFO - Server is running on port: 3030
+11/24/2022, 6:45:47 PM - INFO - Req was made
+11/24/2022, 6:45:47 PM - DEBUG - Getting Toys
+11/24/2022, 6:47:51 PM - INFO - Req was made
+11/24/2022, 6:47:51 PM - DEBUG - Getting Toys
+11/24/2022, 6:47:59 PM - INFO - Req was made
+11/24/2022, 6:47:59 PM - DEBUG - Getting Toys
+11/24/2022, 6:48:44 PM - INFO - Req was made
+11/24/2022, 6:48:44 PM - DEBUG - Getting Toys
+11/24/2022, 6:50:55 PM - INFO - Req was made
+11/24/2022, 6:50:55 PM - DEBUG - Getting Toys
+11/24/2022, 6:52:53 PM - INFO - Req was made
+11/24/2022, 6:52:53 PM - DEBUG - Getting Toys
+11/24/2022, 6:56:38 PM - INFO - Req was made
+11/24/2022, 6:56:38 PM - DEBUG - Getting Toys
+11/24/2022, 6:56:55 PM - INFO - Req was made
+11/24/2022, 6:56:55 PM - DEBUG - Getting Toys
+11/24/2022, 7:00:03 PM - INFO - Req was made
+11/24/2022, 7:00:03 PM - DEBUG - Getting Toys
+11/24/2022, 7:00:10 PM - INFO - Req was made
+11/24/2022, 7:00:10 PM - DEBUG - Getting Toys
+11/24/2022, 7:01:07 PM - INFO - Req was made
+11/24/2022, 7:01:07 PM - DEBUG - Getting Toys
+11/24/2022, 7:02:38 PM - INFO - Server is running on port: 3030
+11/24/2022, 7:02:47 PM - INFO - Req was made
+11/24/2022, 7:02:47 PM - DEBUG - Getting Toys
+11/25/2022, 12:22:54 PM - INFO - Req was made
+11/25/2022, 12:22:54 PM - DEBUG - Getting Toys
+11/25/2022, 12:34:00 PM - INFO - Server is running on port: 3030
+11/25/2022, 12:34:27 PM - INFO - Req was made
+11/25/2022, 12:34:27 PM - DEBUG - Getting Toys
+11/25/2022, 12:49:42 PM - INFO - Server is running on port: 3030
+11/25/2022, 12:54:25 PM - INFO - Server is running on port: 3030
+11/25/2022, 12:54:47 PM - INFO - Req was made
+11/25/2022, 12:54:47 PM - DEBUG - Getting Toys
+11/25/2022, 12:55:12 PM - INFO - Req was made
+11/25/2022, 12:55:12 PM - DEBUG - Getting Toys
+11/25/2022, 12:56:30 PM - INFO - Req was made
+11/25/2022, 12:56:30 PM - DEBUG - Getting Toys
+11/25/2022, 12:56:50 PM - INFO - Server is running on port: 3030
+11/25/2022, 12:58:46 PM - INFO - Req was made
+11/25/2022, 12:58:46 PM - DEBUG - Getting Toys
+11/25/2022, 12:59:38 PM - INFO - Req was made
+11/25/2022, 12:59:38 PM - DEBUG - Getting Toys
+11/25/2022, 1:00:03 PM - INFO - Req was made
+11/25/2022, 1:00:03 PM - DEBUG - Getting Toys
+11/25/2022, 1:31:03 PM - INFO - Req was made
+11/25/2022, 1:31:03 PM - DEBUG - Getting Toys
+11/25/2022, 1:36:39 PM - INFO - Req was made
+11/25/2022, 1:36:39 PM - DEBUG - Getting Toys
+11/25/2022, 1:47:27 PM - INFO - Req was made
+11/25/2022, 1:47:27 PM - DEBUG - Getting Toys
+11/25/2022, 1:51:10 PM - INFO - Req was made
+11/25/2022, 1:51:10 PM - DEBUG - Getting Toys
+11/25/2022, 1:56:24 PM - INFO - Req was made
+11/25/2022, 1:56:24 PM - DEBUG - Getting Toys
+11/25/2022, 1:57:52 PM - INFO - Req was made
+11/25/2022, 1:57:52 PM - DEBUG - Getting Toys
+11/25/2022, 2:00:00 PM - INFO - Req was made
+11/25/2022, 2:00:00 PM - DEBUG - Getting Toys
+11/25/2022, 2:00:16 PM - INFO - Req was made
+11/25/2022, 2:00:16 PM - DEBUG - Getting Toys
+11/25/2022, 2:10:04 PM - INFO - Req was made
+11/25/2022, 2:10:04 PM - DEBUG - Getting Toys
+11/25/2022, 3:51:02 PM - INFO - Req was made
+11/25/2022, 3:51:02 PM - DEBUG - Getting Toys
+11/26/2022, 7:45:51 AM - INFO - Req was made
+11/26/2022, 7:45:52 AM - DEBUG - Getting Toys
+11/26/2022, 7:46:59 AM - INFO - Req was made
+11/26/2022, 7:46:59 AM - DEBUG - Getting Toys
+11/26/2022, 8:11:01 AM - INFO - Req was made
+11/26/2022, 8:11:01 AM - DEBUG - Getting Toys
+11/26/2022, 8:19:45 AM - INFO - Req was made
+11/26/2022, 8:19:45 AM - DEBUG - Getting Toys
+11/26/2022, 8:38:04 AM - INFO - Req was made
+11/26/2022, 8:38:04 AM - DEBUG - Getting Toys
+11/26/2022, 8:42:12 AM - INFO - Req was made
+11/26/2022, 8:42:12 AM - DEBUG - Getting Toys
+11/26/2022, 8:42:25 AM - DEBUG - auth.service - login with username: undefined
+11/26/2022, 8:42:25 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:42:26 AM - INFO - Req was made
+11/26/2022, 8:42:26 AM - DEBUG - Getting Toys
+11/26/2022, 8:42:52 AM - DEBUG - auth.service - login with username: undefined
+11/26/2022, 8:42:52 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:42:53 AM - INFO - Req was made
+11/26/2022, 8:42:53 AM - DEBUG - Getting Toys
+11/26/2022, 8:44:39 AM - INFO - Req was made
+11/26/2022, 8:44:39 AM - DEBUG - Getting Toys
+11/26/2022, 8:44:47 AM - DEBUG - auth.service - login with username: undefined
+11/26/2022, 8:44:47 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:44:48 AM - INFO - Req was made
+11/26/2022, 8:44:48 AM - DEBUG - Getting Toys
+11/26/2022, 8:45:28 AM - INFO - Server is running on port: 3030
+11/26/2022, 8:45:37 AM - DEBUG - auth.service - login with username: undefined
+11/26/2022, 8:45:37 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:45:38 AM - INFO - Req was made
+11/26/2022, 8:45:38 AM - DEBUG - Getting Toys
+11/26/2022, 8:47:17 AM - INFO - Server is running on port: 3030
+11/26/2022, 8:47:35 AM - DEBUG - auth.service - login with username: undefined
+11/26/2022, 8:47:36 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:47:37 AM - INFO - Req was made
+11/26/2022, 8:47:37 AM - DEBUG - Getting Toys
+11/26/2022, 8:48:22 AM - INFO - Req was made
+11/26/2022, 8:48:22 AM - DEBUG - Getting Toys
+11/26/2022, 8:49:33 AM - INFO - Req was made
+11/26/2022, 8:49:33 AM - DEBUG - Getting Toys
+11/26/2022, 8:50:27 AM - INFO - Req was made
+11/26/2022, 8:50:27 AM - DEBUG - Getting Toys
+11/26/2022, 8:51:58 AM - INFO - Req was made
+11/26/2022, 8:51:58 AM - DEBUG - Getting Toys
+11/26/2022, 8:52:29 AM - INFO - Req was made
+11/26/2022, 8:52:29 AM - DEBUG - Getting Toys
+11/26/2022, 8:53:27 AM - INFO - Req was made
+11/26/2022, 8:53:27 AM - DEBUG - Getting Toys
+11/26/2022, 8:54:29 AM - INFO - Req was made
+11/26/2022, 8:54:29 AM - DEBUG - Getting Toys
+11/26/2022, 8:54:38 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 8:54:38 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:54:39 AM - INFO - Req was made
+11/26/2022, 8:54:39 AM - DEBUG - Getting Toys
+11/26/2022, 8:56:59 AM - INFO - Server is running on port: 3030
+11/26/2022, 8:57:10 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 8:57:10 AM - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+11/26/2022, 8:57:11 AM - INFO - Req was made
+11/26/2022, 8:57:11 AM - DEBUG - Getting Toys
+11/26/2022, 9:14:45 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:14:45 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:14:46 AM - INFO - Req was made
+11/26/2022, 9:14:46 AM - DEBUG - Getting Toys
+11/26/2022, 9:15:53 AM - INFO - Req was made
+11/26/2022, 9:15:53 AM - DEBUG - Getting Toys
+11/26/2022, 9:16:07 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:16:07 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:16:08 AM - INFO - Req was made
+11/26/2022, 9:16:08 AM - DEBUG - Getting Toys
+11/26/2022, 9:20:21 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:21:18 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:24:40 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:24:40 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:24:41 AM - INFO - Req was made
+11/26/2022, 9:24:41 AM - DEBUG - Getting Toys
+11/26/2022, 9:26:52 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:26:57 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:26:57 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:26:58 AM - INFO - Req was made
+11/26/2022, 9:26:58 AM - DEBUG - Getting Toys
+11/26/2022, 9:30:21 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:30:28 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:30:28 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:30:29 AM - INFO - Req was made
+11/26/2022, 9:30:29 AM - DEBUG - Getting Toys
+11/26/2022, 9:35:14 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:35:23 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:35:24 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:35:25 AM - INFO - Req was made
+11/26/2022, 9:35:25 AM - DEBUG - Getting Toys
+11/26/2022, 9:37:05 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:37:24 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:37:24 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:37:25 AM - INFO - Req was made
+11/26/2022, 9:37:25 AM - DEBUG - Getting Toys
+11/26/2022, 9:47:18 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:47:26 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:47:26 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:47:27 AM - INFO - Req was made
+11/26/2022, 9:47:27 AM - DEBUG - Getting Toys
+11/26/2022, 9:48:18 AM - INFO - Req was made
+11/26/2022, 9:48:18 AM - DEBUG - Getting Toys
+11/26/2022, 9:48:24 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:48:24 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:48:25 AM - INFO - Req was made
+11/26/2022, 9:48:25 AM - DEBUG - Getting Toys
+11/26/2022, 9:49:30 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:58:07 AM - INFO - Server is running on port: 3030
+11/26/2022, 9:58:17 AM - INFO - Req was made
+11/26/2022, 9:58:17 AM - DEBUG - Getting Toys
+11/26/2022, 9:58:23 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 9:58:23 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 9:58:24 AM - INFO - Req was made
+11/26/2022, 9:58:24 AM - DEBUG - Getting Toys
+11/26/2022, 10:04:19 AM - INFO - Server is running on port: 3030
+11/26/2022, 10:04:45 AM - INFO - Server is running on port: 3030
+11/26/2022, 10:04:51 AM - INFO - Req was made
+11/26/2022, 10:04:51 AM - DEBUG - Getting Toys
+11/26/2022, 10:05:06 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 10:05:06 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 10:05:07 AM - INFO - Req was made
+11/26/2022, 10:05:07 AM - DEBUG - Getting Toys
+11/26/2022, 11:40:06 AM - INFO - Req was made
+11/26/2022, 11:40:06 AM - DEBUG - Getting Toys
+11/26/2022, 11:40:20 AM - INFO - Req was made
+11/26/2022, 11:40:20 AM - DEBUG - Getting Toys
+11/26/2022, 11:41:16 AM - INFO - Server is running on port: 3030
+11/26/2022, 11:41:26 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 11:41:26 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 11:41:27 AM - INFO - Req was made
+11/26/2022, 11:41:27 AM - DEBUG - Getting Toys
+11/26/2022, 11:49:06 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 11:49:06 AM - ERROR - Failed to Login Error: data and hash must be strings
+11/26/2022, 11:49:09 AM - INFO - Req was made
+11/26/2022, 11:49:09 AM - DEBUG - Getting Toys
+11/26/2022, 11:58:07 AM - INFO - Server is running on port: 3030
+11/26/2022, 11:58:31 AM - INFO - Server is running on port: 3030
+11/26/2022, 11:58:38 AM - INFO - Req was made
+11/26/2022, 11:58:38 AM - DEBUG - Getting Toys
+11/26/2022, 11:58:45 AM - DEBUG - auth.service - login with username: puki
+11/26/2022, 11:58:45 AM - ERROR - Failed to Login Error: data and hash arguments required
+11/26/2022, 11:58:47 AM - INFO - Req was made
+11/26/2022, 11:58:47 AM - DEBUG - Getting Toys
+11/26/2022, 11:59:09 AM - INFO - Server is running on port: 3030
+11/26/2022, 12:04:19 PM - INFO - Req was made
+11/26/2022, 12:04:19 PM - DEBUG - Getting Toys
+11/26/2022, 12:13:49 PM - INFO - Req was made
+11/26/2022, 12:13:49 PM - DEBUG - Getting Toys
+11/26/2022, 12:13:58 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:13:58 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:14:00 PM - INFO - Req was made
+11/26/2022, 12:14:00 PM - DEBUG - Getting Toys
+11/26/2022, 12:14:36 PM - INFO - Server is running on port: 3030
+11/26/2022, 12:14:53 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:14:53 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:14:56 PM - INFO - Req was made
+11/26/2022, 12:14:56 PM - DEBUG - Getting Toys
+11/26/2022, 12:18:25 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:18:25 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:18:28 PM - INFO - Req was made
+11/26/2022, 12:18:28 PM - DEBUG - Getting Toys
+11/26/2022, 12:19:30 PM - INFO - Req was made
+11/26/2022, 12:19:30 PM - DEBUG - Getting Toys
+11/26/2022, 12:20:50 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:20:50 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:20:52 PM - INFO - Req was made
+11/26/2022, 12:20:52 PM - DEBUG - Getting Toys
+11/26/2022, 12:25:05 PM - INFO - Server is running on port: 3030
+11/26/2022, 12:27:42 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:27:42 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:28:36 PM - INFO - Req was made
+11/26/2022, 12:28:36 PM - DEBUG - Getting Toys
+11/26/2022, 12:31:55 PM - INFO - Req was made
+11/26/2022, 12:31:55 PM - DEBUG - Getting Toys
+11/26/2022, 12:34:57 PM - INFO - Req was made
+11/26/2022, 12:34:57 PM - DEBUG - Getting Toys
+11/26/2022, 12:35:26 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 12:35:26 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:35:29 PM - INFO - Req was made
+11/26/2022, 12:35:29 PM - DEBUG - Getting Toys
+11/26/2022, 12:35:52 PM - DEBUG - auth.service - login with username: lola
+11/26/2022, 12:35:52 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:35:54 PM - INFO - Req was made
+11/26/2022, 12:35:54 PM - DEBUG - Getting Toys
+11/26/2022, 12:41:01 PM - INFO - Req was made
+11/26/2022, 12:41:01 PM - DEBUG - Getting Toys
+11/26/2022, 12:41:38 PM - DEBUG - auth.service - signup with username: rafi, fullname: rafi oren
+11/26/2022, 12:41:39 PM - DEBUG - auth.route - new account created: {"username":"rafi","password":"$2b$10$7f6BNTqekJXyHL81onTyTOyQEp6TJEg3/lbPSdzcaMmvbL6VMXevu","fullname":"rafi oren","score":0,"_id":"6381ed634528d03a7447208e"}
+11/26/2022, 12:41:39 PM - DEBUG - auth.service - login with username: rafi
+11/26/2022, 12:41:39 PM - INFO - User login:  | {"_id":"6381ed634528d03a7447208e","username":"rafi","fullname":"rafi oren","score":0}
+11/26/2022, 12:42:12 PM - INFO - Req was made
+11/26/2022, 12:42:12 PM - DEBUG - Getting Toys
+11/26/2022, 12:43:50 PM - INFO - Req was made
+11/26/2022, 12:43:50 PM - DEBUG - Getting Toys
+11/26/2022, 12:44:28 PM - DEBUG - auth.service - signup with username: rafi, fullname: rafi oren
+11/26/2022, 12:44:28 PM - DEBUG - auth.route - new account created: {"username":"rafi","password":"$2b$10$lkF6AExefp.R9Fs9rHOkte5iV1Qz4lbENJ57VqB/NyQx6SrLaEoMW","fullname":"rafi oren","score":0,"_id":"6381ee0c4528d03a7447208f"}
+11/26/2022, 12:44:28 PM - DEBUG - auth.service - login with username: rafi
+11/26/2022, 12:44:29 PM - ERROR - Failed to signup Invalid username or password
+11/26/2022, 12:50:43 PM - DEBUG - auth.service - signup with username: rafi, fullname: undefined
+11/26/2022, 12:50:43 PM - ERROR - Failed to signup fullname, username and password are required!
+11/26/2022, 12:53:15 PM - INFO - Req was made
+11/26/2022, 12:53:15 PM - DEBUG - Getting Toys
+11/26/2022, 12:53:27 PM - DEBUG - auth.service - login with username: lola
+11/26/2022, 12:53:27 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 12:53:29 PM - INFO - Req was made
+11/26/2022, 12:53:29 PM - DEBUG - Getting Toys
+11/26/2022, 12:54:14 PM - DEBUG - auth.service - signup with username: rafi, fullname: undefined
+11/26/2022, 12:54:14 PM - ERROR - Failed to signup fullname, username and password are required!
+11/26/2022, 12:58:42 PM - DEBUG - auth.service - signup with username: rafi, fullname: rafi
+11/26/2022, 12:58:43 PM - DEBUG - auth.route - new account created: {"username":"rafi","password":"$2b$10$qfn4/ZFdAmh2.AlUqxOgjOqzkSWCfpN6WW1Rtg.KxHT8RimlZNGla","fullname":"rafi","score":0,"_id":"6381f1634528d03a74472090"}
+11/26/2022, 12:58:43 PM - DEBUG - auth.service - login with username: rafi
+11/26/2022, 12:58:44 PM - INFO - User login:  | {"_id":"6381f1634528d03a74472090","username":"rafi","fullname":"rafi","score":0}
+11/26/2022, 1:02:31 PM - INFO - Req was made
+11/26/2022, 1:02:31 PM - DEBUG - Getting Toys
+11/26/2022, 1:03:01 PM - DEBUG - auth.service - signup with username: doggy, fullname: rafi doggy
+11/26/2022, 1:03:01 PM - DEBUG - auth.route - new account created: {"username":"doggy","password":"$2b$10$2TVPW6a5UyNZ3sF4uxyCBu0ZK9eb730o1DZxH17SUZ7UfnRVDA3ea","fullname":"rafi doggy","score":0,"_id":"6381f2654528d03a74472091"}
+11/26/2022, 1:03:01 PM - DEBUG - auth.service - login with username: doggy
+11/26/2022, 1:03:02 PM - INFO - User login:  | {"_id":"6381f2654528d03a74472091","username":"doggy","fullname":"rafi doggy","score":0}
+11/26/2022, 1:04:03 PM - INFO - Req was made
+11/26/2022, 1:04:03 PM - DEBUG - Getting Toys
+11/26/2022, 1:04:14 PM - DEBUG - auth.service - login with username: rafi
+11/26/2022, 1:04:15 PM - INFO - User login:  | {"_id":"6381f1634528d03a74472090","username":"rafi","fullname":"rafi","score":0}
+11/26/2022, 1:04:52 PM - DEBUG - auth.service - login with username: puki
+11/26/2022, 1:04:52 PM - ERROR - Failed to Login Invalid username or password
+11/26/2022, 1:04:54 PM - INFO - Req was made
+11/26/2022, 1:04:54 PM - DEBUG - Getting Toys
+11/26/2022, 1:05:25 PM - DEBUG - auth.service - login with username: doggy
+11/26/2022, 1:05:26 PM - INFO - User login:  | {"_id":"6381f2654528d03a74472091","username":"doggy","fullname":"rafi doggy","score":0}
+11/26/2022, 1:10:18 PM - INFO - Server is running on port: 3030
+11/26/2022, 1:10:23 PM - INFO - Req was made
+11/26/2022, 1:10:23 PM - DEBUG - Getting Toys
+11/26/2022, 1:10:47 PM - DEBUG - auth.service - signup with username: jaja, fullname: jaja ops
+11/26/2022, 1:10:48 PM - DEBUG - auth.route - new account created: {"username":"jaja","password":"$2b$10$/2AiCHVyuXf3CMB6Owle..mTnSCML9dYCEY7iZyrnYkre/vsDuM8a","fullname":"jaja ops","score":0,"_id":"6381f4382e1af66264f56943"}
+11/26/2022, 1:10:48 PM - DEBUG - auth.service - login with username: jaja
+11/26/2022, 1:10:48 PM - INFO - User login:  | {"_id":"6381f4382e1af66264f56943","username":"jaja","fullname":"jaja ops","score":0}
+11/26/2022, 1:12:12 PM - INFO - Server is running on port: 3030
+11/26/2022, 1:13:11 PM - INFO - Req was made
+11/26/2022, 1:13:11 PM - DEBUG - Getting Toys
+11/26/2022, 1:13:33 PM - DEBUG - auth.service - signup with username: dady, fullname: dady po
+11/26/2022, 1:13:34 PM - DEBUG - auth.route - new account created: {"username":"dady","password":"$2b$10$OFb9qPvmZ8AuxBw3a6qKXunowy.4.ZSOwYrWjHeG4PSEyRdNGbELq","fullname":"dady po","isAdmin":false,"_id":"6381f4def3bc6444085f9aeb"}
+11/26/2022, 1:13:34 PM - DEBUG - auth.service - login with username: dady
+11/26/2022, 1:13:34 PM - INFO - User login:  | {"_id":"6381f4def3bc6444085f9aeb","username":"dady","fullname":"dady po","isAdmin":false}
+11/26/2022, 1:17:37 PM - DEBUG - auth.service - login with username: rafi
+11/26/2022, 1:17:37 PM - INFO - User login:  | {"_id":"6381f1634528d03a74472090","username":"rafi","fullname":"rafi","score":0}
+11/26/2022, 1:18:12 PM - DEBUG - auth.service - signup with username: sason, fullname: sason sas
+11/26/2022, 1:18:12 PM - DEBUG - auth.route - new account created: {"username":"sason","password":"$2b$10$lZbxTlhuYtiiAPCOlvi0NOfrGL2eUJkXdZyZwCGMkpDq84AGXecQi","fullname":"sason sas","isAdmin":false,"_id":"6381f5f4f3bc6444085f9aec"}
+11/26/2022, 1:18:12 PM - DEBUG - auth.service - login with username: sason
+11/26/2022, 1:18:13 PM - INFO - User login:  | {"_id":"6381f5f4f3bc6444085f9aec","username":"sason","fullname":"sason sas","isAdmin":false}
+11/26/2022, 1:26:39 PM - INFO - Req was made
+11/26/2022, 1:26:39 PM - DEBUG - Getting Toys
+11/26/2022, 1:28:05 PM - INFO - Req was made
+11/26/2022, 1:28:05 PM - DEBUG - Getting Toys
+11/26/2022, 1:29:08 PM - INFO - Req was made
+11/26/2022, 1:29:08 PM - DEBUG - Getting Toys
+11/26/2022, 1:29:30 PM - DEBUG - auth.service - login with username: dady
+11/26/2022, 1:29:31 PM - INFO - User login:  | {"_id":"6381f4def3bc6444085f9aeb","username":"dady","fullname":"dady po","isAdmin":false}
+11/26/2022, 1:31:05 PM - INFO - Req was made
+11/26/2022, 1:31:05 PM - DEBUG - Getting Toys
+11/26/2022, 1:31:27 PM - DEBUG - auth.service - login with username: sason
+11/26/2022, 1:31:28 PM - INFO - User login:  | {"_id":"6381f5f4f3bc6444085f9aec","username":"sason","fullname":"sason sas","isAdmin":false}
